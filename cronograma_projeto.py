@@ -3,7 +3,7 @@ import datetime
 import streamlit as st
 import sqlite3
 import warnings
-#import plotly.express as px
+import plotly.express as px
 warnings.filterwarnings('ignore')
 
 banco = sqlite3.connect('banco.db')
