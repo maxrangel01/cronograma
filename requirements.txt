@@ -4,4 +4,3 @@ streamlit
 sqlite3
 warnings
 plotly
-plotly.express
