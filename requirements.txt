@@ -1,6 +1,0 @@
-pandas
-datetime
-streamlit
-sqlite3
-warnings
-plotly
