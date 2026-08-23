@@ -1,7 +1,1 @@
-pandas
-datetime
-streamlit
-
-warnings
-plotly
 plotly.express
