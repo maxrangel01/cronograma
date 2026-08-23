@@ -1,6 +1,6 @@
-pandas as pd
+pandas 
 datetime
-streamlit as st
+streamlit
 sqlite3
 warnings
 plotly
