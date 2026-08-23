@@ -4,4 +4,4 @@ streamlit
 sqlite3
 warnings
 plotly
-plotly.express as px
+plotly.express 
